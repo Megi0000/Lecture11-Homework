@@ -1,0 +1,82 @@
+.navparent{
+    display: flex;
+    background-color: #191A19;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.logo{
+    width: 30%;
+    padding: 30px 0 30px 0;
+    margin-left: 7%;
+}
+.nav{
+    display: flex;
+    color: #FFFFFF;
+    width: 30%;
+}
+.nav ul{
+    display: flex;
+    margin-left: 18%;
+    gap: 25px;
+}
+.navbutton{
+    display: flex;
+    width: 100%;
+    color: #FFFFFF;
+    width: 30%;
+    padding-left: 5%;
+    gap: 25px;
+}
+.button1{
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    border: 0px;
+    background-color:  #FF7420;
+    color: #FFFFFF;
+}
+.navbutton ul{
+    margin-top: 10px;
+}
+.section1parent{
+    background-image: url(../images/background.png);
+    width: 100%;
+    height: 560px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.section1info{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 37%;
+    left: 5%;
+}
+.section1info h1{
+    font-size: 60px;
+    color: #FFFFFF;
+    padding-right: 50px;
+}
+span{
+    color: #FF7420;
+}
+.section1info p{
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 24px 0 50px 0;
+}
+.button2{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #FF7420;
+    color: #FFFFFF;
+} 
+.button3{
+    padding:10px ;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #FFFFFF;
+    margin-left: 25px;
+}
