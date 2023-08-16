@@ -164,3 +164,28 @@ span{
     margin-left: 78%;
     padding: 30px 0 30px 0;
 }
+.section3infoparent{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-color: #191A19;
+}
+.section3infoparent h3{
+    font-size: 25px;
+    color: #FF7420;
+    padding: 40px 0 30px 0;
+}
+.section3infoparent p{
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 0 18% 0 18%;
+}
+.section3infoparent h5{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin:25px 0 15px 0 ;
+}
+.section3infoparent h6{
+    color: #FFFFFF;
+    font-size: 16px;
+}
