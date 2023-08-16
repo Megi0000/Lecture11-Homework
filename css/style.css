@@ -188,4 +188,29 @@ span{
 .section3infoparent h6{
     color: #FFFFFF;
     font-size: 16px;
+    padding-bottom: 40px;
 }
+.footerparent1{
+    background-color: #121312;
+    padding: 50px;
+}
+.logo2{
+    display: flex;
+}
+.logo2 h2{
+    margin:0 3% 0 40%;
+    color: #FFFFFF;
+}
+#myEmail{
+    background-color: #121312;
+    color: #FFFFFF; 
+    border: 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.61);
+    margin-bottom: 4px;
+}
+.fa-solid{
+    color: #FFFFFF;
+}
+
+
+
