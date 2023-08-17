@@ -1,3 +1,7 @@
+
+
+
+
 .navparent{
     display: flex;
     background-color: #191A19;
@@ -19,6 +23,7 @@
     display: flex;
     margin-left: 18%;
     gap: 25px;
+    font-family: 'Inter', sans-serif;
 }
 .navbutton{
     display: flex;
@@ -27,6 +32,7 @@
     width: 30%;
     padding-left: 5%;
     gap: 25px;
+    font-family: 'Inter', sans-serif;
 }
 .button1{
     padding: 10px 15px 10px 15px;
@@ -34,6 +40,7 @@
     border: 0px;
     background-color:  #FF7420;
     color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
 }
 .navbutton ul{
     margin-top: 10px;
@@ -57,6 +64,7 @@
     font-size: 60px;
     color: #FFFFFF;
     padding-right: 50px;
+    font-family: 'Inter', sans-serif;
 }
 span{
     color: #FF7420;
@@ -65,6 +73,7 @@ span{
     font-size: 20px;
     color: #FFFFFF;
     padding: 24px 0 50px 0;
+    font-family: 'Inter', sans-serif;
 }
 .button2{
     padding: 10px 20px 10px 20px;
@@ -72,6 +81,7 @@ span{
     border: 0px;
     background-color: #FF7420;
     color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
 } 
 .button3{
     padding:10px ;
@@ -79,6 +89,7 @@ span{
     border: 0px;
     background-color: #FFFFFF;
     margin-left: 25px;
+    font-family: 'Inter', sans-serif;
 }
 .sectionheader{
     background-color: #FF7420;
@@ -91,21 +102,23 @@ span{
     padding: 30px 0 30px 0;
 }
 .heading{
-    width: 35%;
+    width: 37%;
 }
 .heading h2{
     font-size: 60px;
+    font-family: 'Inter', sans-serif;
 }
 .menu{
-    width:45% ;
+    width:55% ;
 }
 .menu ul{
     display: flex;
-    gap: 30px;
+    gap: 25px;
     justify-content: end;
     align-items: center;
     color: #FFFFFF;
     font-size: 18px;
+    font-family: 'Inter', sans-serif;
 }
 .section2child2{
     width: 100%;
@@ -115,8 +128,6 @@ span{
     gap:10px;
     margin-top: 30px
 }
-
-
 .card1{
     background-image: url(../Images/card\ 1.png);
     border-radius: 10px;
@@ -151,14 +162,17 @@ span{
 }
 .info h4{
     font-size: 23px;
+    font-family: 'Inter', sans-serif;
 }
 .info p{
     margin-top: 10px;
     font-size: 18px;
+    font-family: 'Inter', sans-serif;
 }
 
 .allprojects a,i{
     color: #191A19;
+    font-family: 'Inter', sans-serif;
 }
 .allprojects{
     margin-left: 78%;
@@ -174,21 +188,114 @@ span{
     font-size: 25px;
     color: #FF7420;
     padding: 40px 0 30px 0;
+    font-family: 'Inter', sans-serif;
 }
 .section3infoparent p{
     font-size: 20px;
     color: #FFFFFF;
     padding: 0 18% 0 18%;
+    font-family: 'Inter', sans-serif;
 }
 .section3infoparent h5{
     color: #FFFFFF;
     font-size: 20px;
     margin:25px 0 15px 0 ;
+    font-family: 'Inter', sans-serif;
 }
 .section3infoparent h6{
     color: #FFFFFF;
     font-size: 16px;
     padding-bottom: 40px;
+    font-family: 'Inter', sans-serif;
+}
+.section4parent{
+    background-color: #191A19;
+    width: 100%;
+    display: flex;
+}
+.heading2{
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 60px;
+    padding: 70px 0 50px 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+.section4child1{
+    width: 55%;
+    background-color: #FF7420;
+    margin-left: 6%;
+    border-radius: 20px;
+    padding: 25px;
+    color: #FFFFFF;
+}
+.section4child1 h4{
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+}
+.section4child1 p{
+    font-size: 20px;
+    padding: 20px 40px 20px 0;
+    font-family: 'Inter', sans-serif;
+}
+#Name{
+    width: 45%;
+    padding: 14px;
+    margin: 10px 10px 0 0;
+    border: 0px;
+    border-radius: 10px;
+}
+#Text{
+    width: 92%;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 0px;
+    font-family: 'Inter', sans-serif;
+}
+.button4{
+    width: 92%;
+    background-color: #191A19;
+    color: #FFFFFF;
+    margin-top: 15px;
+    padding: 15px;
+    border: 0px;
+    border-radius: 10px;
+    font-family: 'Inter', sans-serif;
+}
+.section4child2{
+    background-color: #FF7420;
+    margin-left: 2%;
+    width: 30%;
+    padding: 25px;
+    border: 0px;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.section4child2 h5{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.section4child2 h6{
+    margin: 20px 0 10px 0;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.section4child2 p{
+    padding-right: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.button5{
+    width: 100%;
+    padding: 15px;
+    background-color: #191A19;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 43px;
+    font-family: 'Inter', sans-serif;
 }
 .footerparent1{
     background-color: #121312;
@@ -200,6 +307,7 @@ span{
 .logo2 h2{
     margin:0 3% 0 40%;
     color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
 }
 #myEmail{
     background-color: #121312;
@@ -211,6 +319,74 @@ span{
 .fa-solid{
     color: #FFFFFF;
 }
+.footerparent2{
+    display: flex;
+    background-color: #121312;
+    width: 100%;
+    padding: 0 50px 50px 50px;
+    gap: 40px;
+}
+.child1{
+    color: #FFFFFF;
+    width: 40%;
+}
+.child1 h4{
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+}
+.child1 p {
+    font-family: 'Inter', sans-serif;
+}
+.child2{
+    color: #FFFFFF;
+    width: 25%;
+}
+.child2 p {
+    font-family: 'Inter', sans-serif;
+}
+.child2 h4{
+    font-size: 20px;
+    margin-bottom:15px ;
+    font-family: 'Inter', sans-serif;
+}
+.child3{
+    color: #FFFFFF;
+    width: 25%;
+}
+.child3 h5 {
+    font-family: 'Inter', sans-serif;
+}
+.child3 h4{
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+}
+.child4{
+    width: 10%;
+}
+.child4 p{
+    font-family: 'Inter', sans-serif;
+}
+.child4 h4{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+}
+.link{
+    display: block;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
 
-
-
+.footerparent3{
+    background-color: #121312;
+    width: 100%;
+    padding:0 0 30px 40px;
+}
+.footerparent3 i{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 10px;
+}
